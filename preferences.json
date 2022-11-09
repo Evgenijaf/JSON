@@ -1,6 +1,7 @@
 {
-"person": "Чумаченко Евгения Владимировна",
-"age": 40,
-"pets": 1,
-"salary": 1000
+"favorite_movie": "Реквием по мечте",
+"favorite_series": "Звездные врата",
+"favorite_food": "суши",
+"favorite_season": "Осень",
+"country_to_visit": "Норвегия"
 }
